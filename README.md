@@ -29,3 +29,6 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 
 ## Certificações Gratuitas IBM
 - https://www.ibm.com/training/badge/docker-essentials-a-developer-introduction
+
+## Cisco Networking Academy
+- https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html
