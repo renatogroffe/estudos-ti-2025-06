@@ -15,13 +15,12 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 - https://www.freecodecamp.org/learn/b1-english-for-developers/
 - https://www.freecodecamp.org/learn/a2-english-for-developers/
 
-## Segurança em APIs
+## Certificações Gratuitas de Segurança em APIs
 - https://www.apisecuniversity.com/#courses
 
 ## Certificações Gratuitas Linux Foundation
 - https://training.linuxfoundation.org/training/introduction-to-linux/
 - https://training.linuxfoundation.org/training/introduction-to-kubernetes/
 
-## IBM
+## Certificações Gratuitas IBM
 - https://www.ibm.com/training/badge/docker-essentials-a-developer-introduction
-
