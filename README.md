@@ -11,8 +11,12 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 - https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/
 
 ## Certificações Gratuitas em Desenvolvimento e outras áreas - freeCodeCamp
--
-- 
+- https://www.freecodecamp.org/
+- https://www.freecodecamp.org/learn/b1-english-for-developers/
+- https://www.freecodecamp.org/learn/a2-english-for-developers/
+
+## Segurança em APIs
+- https://www.apisecuniversity.com/#courses
 
 ## Certificações Gratuitas Linux Foundation
 - https://training.linuxfoundation.org/training/introduction-to-linux/
@@ -20,3 +24,4 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 
 ## IBM
 - https://www.ibm.com/training/badge/docker-essentials-a-developer-introduction
+
