@@ -12,8 +12,10 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 
 ## Certificações Gratuitas em Desenvolvimento e outras áreas - freeCodeCamp
 - https://www.freecodecamp.org/
+- https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
 - https://www.freecodecamp.org/learn/b1-english-for-developers/
 - https://www.freecodecamp.org/learn/a2-english-for-developers/
+- https://www.freecodecamp.org/learn/relational-database/
 
 ## Certificações Gratuitas de Segurança em APIs
 - https://www.apisecuniversity.com/#courses
