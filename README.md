@@ -1,17 +1,22 @@
 # estudos-ti-2025-06
 Roteiros de estudos para pessoas que pretendem ingressar em TI ou mesmo se atualizar em algumas áreas.
 
-Elaborado para esta live no YouTube:
+Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 
 ---
 
 ## Microsoft Learn
-
+- https://learn.microsoft.com/en-us/training/modules/intro-to-git/
+- https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
+- https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/
 
 ## Certificações Gratuitas em Desenvolvimento e outras áreas - freeCodeCamp
-
+-
+- 
 
 ## Certificações Gratuitas Linux Foundation
 - https://training.linuxfoundation.org/training/introduction-to-linux/
 - https://training.linuxfoundation.org/training/introduction-to-kubernetes/
--
+
+## IBM
+- https://www.ibm.com/training/badge/docker-essentials-a-developer-introduction
