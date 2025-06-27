@@ -6,7 +6,7 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 ---
 
 ## Microsoft Learn
-- https://learn.microsoft.com/en-us/training/modules/intro-to-git/
+- https://learn.microsoft.com/en-us/training/paths/github-foundations/
 - https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
 - https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/
 
