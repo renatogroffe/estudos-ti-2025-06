@@ -12,11 +12,11 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 - Certificação AZ-900 - Azure AI Fundamentals (exame pago): https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/
 
 ## Certificações Gratuitas em Desenvolvimento e outras áreas - freeCodeCamp
-- https://www.freecodecamp.org/
-- https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
-- https://www.freecodecamp.org/learn/b1-english-for-developers/
-- https://www.freecodecamp.org/learn/a2-english-for-developers/
-- https://www.freecodecamp.org/learn/relational-database/
+- Site: https://www.freecodecamp.org/
+- C# (com apoio da Microsoft): https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
+- Inglês para Devs e Profissionais de TI em geral - B1: https://www.freecodecamp.org/learn/b1-english-for-developers/
+- Inglês para Devs e Profissionais de TI em geral - A2: https://www.freecodecamp.org/learn/a2-english-for-developers/
+- Conceitos de Bancos Relacionais: https://www.freecodecamp.org/learn/relational-database/
 
 ## Certificações Gratuitas de Segurança em APIs
 - https://www.apisecuniversity.com/#courses
