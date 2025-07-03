@@ -22,8 +22,9 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 - https://www.apisecuniversity.com/#courses
 
 ## Certificações Gratuitas Linux Foundation
-- https://training.linuxfoundation.org/training/introduction-to-linux/
-- https://training.linuxfoundation.org/training/introduction-to-kubernetes/
+- Linux - Introdução: https://training.linuxfoundation.org/training/introduction-to-linux/
+- Kubernetes - Introdução: https://training.linuxfoundation.org/training/introduction-to-kubernetes/
+- Segurança em Aplicações - OWASP Top 10: https://training.linuxfoundation.org/training/owasp-top-ten-security-threats-skf100/
 
 ## Docker - Treinamentos
 - Conteúdos online gratuitos: https://www.docker.com/trainings/
