@@ -29,7 +29,7 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 - https://www.docker.com/trainings/
 
 ## Certificações Gratuitas IBM
-- https://www.ibm.com/training/badge/docker-essentials-a-developer-introduction
+- Docker Essentials: https://www.ibm.com/training/badge/docker-essentials-a-developer-introduction
 
 ## Cisco Networking Academy
-- https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html
+- Certificações Gratuitas em Infraestrutura, Redes e Segurança: https://www.cisco.com/site/us/en/learn/training-certifications/training/netacad/index.html
