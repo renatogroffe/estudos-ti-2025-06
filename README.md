@@ -26,7 +26,7 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 - https://training.linuxfoundation.org/training/introduction-to-kubernetes/
 
 ## Docker - Treinamentos
-- https://www.docker.com/trainings/
+- Conteúdos online gratuitos: https://www.docker.com/trainings/
 
 ## Certificações Gratuitas IBM
 - Docker Essentials: https://www.ibm.com/training/badge/docker-essentials-a-developer-introduction
