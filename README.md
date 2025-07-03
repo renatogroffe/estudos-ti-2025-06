@@ -8,8 +8,8 @@ Elaborado para esta live no YouTube: https://www.youtube.com/watch?v=XtrgwENafEQ
 ## Microsoft Learn
 - Treinamento Gratuito sobre Git e GitHub:
   https://learn.microsoft.com/en-us/training/paths/github-foundations/
-- https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
-- https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/
+- Certificação AZ-900 - Azure Fundamentals (exame pago): https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/
+- Certificação AZ-900 - Azure AI Fundamentals (exame pago): https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/
 
 ## Certificações Gratuitas em Desenvolvimento e outras áreas - freeCodeCamp
 - https://www.freecodecamp.org/
